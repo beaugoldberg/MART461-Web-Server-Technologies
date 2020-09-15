@@ -1,0 +1,31 @@
+﻿h1 {
+    text-align: center;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #FF0000;
+    font-weight: bold
+}
+#Checkbox1 {
+    width: 20px;
+}
+
+#Select1 {
+    width: 81px;
+}
+
+#Password1 {
+    width: 242px;
+}
+
+.textboxstyle {
+    width: 242px;
+}
+
+.buttonstyle {
+    Height: 35px ;
+    margin-top: 0px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: bold;
+    width: 129px;
+}
