@@ -1,0 +1,61 @@
+﻿h1 {
+    color: silver;
+    text-align: center;
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    font-weight: normal
+}
+
+form {
+    color: silver;
+    background-color: maroon;
+    width: 1292px;
+    margin-right: 2px;
+}
+
+#Checkbox1 {
+    width: 20px;
+}
+
+#Select1 {
+    width: 81px;
+}
+
+#Password1 {
+    width: 242px;
+}
+
+.textboxstyle {
+    margin-left: 24px;
+    width: 242px;
+}
+
+.buttonstyle {
+    text-align: center;
+    margin-left: 24px;
+    height: 35px ;
+    margin-top: 0px ;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    font-weight: bold;
+    width: 129px;
+}
+
+.panelstyle {
+    background-color: whitesmoke;
+    margin-left: 240px;
+    margin-bottom: 150px;
+    height: 640px;
+    width: 830px;
+}
+
+.checkboxstyle {
+    margin-left: 24px;
+    color: silver;
+}
+
+.label {
+    margin-top: 10px;
+    margin-left: 24px;
+}
